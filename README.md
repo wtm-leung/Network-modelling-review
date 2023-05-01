@@ -3,6 +3,7 @@ Data and `R` code to support Leung *et al.*, (2023).
 
 *Full paper citation:* Leung WTM, Rudge JW, Fournié G. 2023 Simulating contact networks for livestock disease epidemiology: a systematic review. J. R. Soc. Interface 20220890. https://doi.org/10.1098/rsif.2022.0890
 
+*Repository citation* [![DOI](https://zenodo.org/badge/631143379.svg)](https://zenodo.org/badge/latestdoi/631143379)
 
 --------------------------------------------------------------------------------
 This systematic review presents an overview of empirically informed, model-based approaches of network generation and inference that have been applied to simulate
